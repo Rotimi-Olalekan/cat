@@ -1,0 +1,36 @@
+.container{
+    height: 667px;
+    width: 375px;
+    font-family : Helvetica LT Std;
+    align-content: center;
+}
+
+
+ #hm-container{
+    height: 105px;
+    width: 162px;
+    border-style : Solid;
+	border-color : #1B1464;
+	border-color : rgba(27, 20, 100, 1);
+	border-width : 9px;
+	position : absolute ;
+	margin-left : 90px;
+	margin-top : 158px;
+	border-radius : 20px;
+}
+.hm-title{
+	/* position : absolute ; */
+	margin-left : 20px;
+    margin-top : 0px;
+    margin-bottom: 0px;
+}
+#hm-container p{
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+#hm-container a{
+    text-align: center;
+    margin-left:18px;
+    /* margin-top: 10px; */
+}

@@ -1,0 +1,30 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="chatcat.com" resolutions="1x" timestamp="1522307386388">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="382426418" ref="index"/>
+    <file name="iefonts_index.css" crc="328825904" ref="index"/>
+    <file name="chatroom.css" crc="3822567132" ref="chatroom"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:chatroom"/>
+    <file name="museutils.js" crc="163421577" ref="index:chatroom"/>
+    <file name="whatinput.js" crc="86476730" ref="index:chatroom"/>
+    <file name="museconfig.js" crc="168988563" ref="index:chatroom"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:chatroom"/>
+    <file name="webpro.js" crc="3848665353" ref="index:chatroom"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u227.php" crc="61761555" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:chatroom"/>
+    <file name="require.js" crc="244322403" ref="index:chatroom"/>
+    <file name="form-u342.php" crc="66787423" ref="chatroom"/>
+  </folder>
+  <folder name="images">
+    <file name="12190938_946651105417446_3077707882968009614_n.jpg" crc="3884481555" ref="index:chatroom"/>
+    <file name="12190938_946651105417446_3077707882968009614_n-u163-fr.jpg" crc="3787496978" ref="index"/>
+    <file name="12190938_946651105417446_3077707882968009614_n-u176-fr.jpg" crc="367405051" ref="index"/>
+  </folder>
+  <file name="index.html" crc="468440205" seo="true" mt="1522307364693" redirect="true"/>
+  <file name="chatroom.html" crc="115082617" seo="true" mt="1522307291470" redirect="true"/>
+</manifest>
